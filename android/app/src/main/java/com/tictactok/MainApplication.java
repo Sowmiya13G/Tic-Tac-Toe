@@ -1,4 +1,4 @@
-package com.tictactok;
+package com.TicTacToe;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
